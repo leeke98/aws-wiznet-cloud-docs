@@ -9,13 +9,14 @@ const rlc = require("remark-link-card");
 const config = {
   title: "WIZnet Cloud Docs",
   tagline: "Guides and Docs for wizcloud.io", // 나중에 도메인 변경
-  url: "https://leeke98.github.io", // docs 도메인으로 변경
-  baseUrl: "/aws-wiznet-cloud-docs/",
+  url: "https://aws-wiznet-cloud-docs.github.io", // docs 도메인으로 변경
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/wizfavicon.ico",
-  organizationName: "leeke98", // Usually your GitHub org/user name. 변경
   projectName: "aws-wiznet-cloud-docs", // Usually your repo name. 변경
+  organizationName: "leeke98", // Usually your GitHub org/user name. 변경
+  trailingSlash: false,
 
   presets: [
     [
