@@ -1,10 +1,10 @@
 ---
-title: 'Appcircle Documentation'
-metaTitle: 'Appcircle Documentation'
-metaDescription: 'Appcircle Documentation'
-sidebar_position: 1
-slug: /
-hide_table_of_contents: false
+title: "Appcircle Documentation"
+metaTitle: "Appcircle Documentation"
+metaDescription: "Appcircle Documentation"
+# sidebar_position: 1
+# slug: /
+# hide_table_of_contents: false
 ---
 
 # Appcircle Documentation
